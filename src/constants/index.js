@@ -52,23 +52,27 @@ export const statistics = [
 export const products = [
 	{
 		imgURL: shoe4,
-		name: 'Nike Air Jordan-01',
+		name: 'Nike React Miler',
 		price: '$200.20',
+		rating: '(4.5)',
 	},
 	{
 		imgURL: shoe5,
-		name: 'Nike Air Jordan-10',
+		name: 'Puma X-Ray Speed',
 		price: '$210.20',
+		rating: '(4.4)',
 	},
 	{
 		imgURL: shoe6,
-		name: 'Nike Air Jordan-100',
+		name: 'Nike Venture Runner',
 		price: '$220.20',
+		rating: '(4.7)',
 	},
 	{
 		imgURL: shoe7,
-		name: 'Nike Air Jordan-001',
+		name: 'New Balance Revlite',
 		price: '$230.20',
+		rating: '(4.6)',
 	},
 ];
 
